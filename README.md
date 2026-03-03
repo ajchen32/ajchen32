@@ -1,4 +1,4 @@
-## Hi I'm Aaron
+## I'm Aaron
 I'm studying Computer Science at the University of Illinois Urbana-Champaign
 
 <!--
