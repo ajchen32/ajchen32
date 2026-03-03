@@ -1,5 +1,5 @@
 ## Hi I'm Aaron
-I'm currently studying Computer Science at the University of Illinois Urbana-Champaign
+I'm studying Computer Science at the University of Illinois Urbana-Champaign
 
 <!--
 **ajchen32/ajchen32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
